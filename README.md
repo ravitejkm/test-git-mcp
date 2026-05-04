@@ -25,7 +25,17 @@ This is a Hello World page created through Claude using MCP servers.
 4. Open the downloaded file in any web browser
 
 ### Option 3 — View via GitHub Pages
-If GitHub Pages is enabled for this repo, you can view it at:
+You can view the live page at:
 ```
 https://ravitejkm.github.io/test-git-mcp/
 ```
+
+#### How to Enable GitHub Pages (if not already enabled)
+1. Go to your repository on GitHub: [https://github.com/ravitejkm/test-git-mcp](https://github.com/ravitejkm/test-git-mcp)
+2. Click on **Settings** (top navigation bar)
+3. Scroll down to the **Pages** section in the left sidebar
+4. Under **Source**, select **Deploy from a branch**
+5. Under **Branch**, select `main` and set the folder to `/ (root)`
+6. Click **Save**
+7. Wait a few minutes for GitHub to build and deploy your page
+8. Your site will be live at `https://ravitejkm.github.io/test-git-mcp/`
